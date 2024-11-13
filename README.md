@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @AlineOrtiz-qa.
-- 👀 I’m interested in development my QA careear.
-- 🌱 I’m currently learning lots of new things about QA technologies.
-- 💞️ I’m looking to collaborate always in my team with my skills and my knowledge.
+- 👋 Hi, I’m @AlineOrtiz-qa - QA Engineer
+- 👀 Psychologist
+- 💞️ Writer
+- 💞️ Workaholic
+- 💞️ Well Married @dev-afpereira
+- 💞️ Mother of Two
+- 🌱 Standup Paddle Surfer Housewife
 - 📫 How to reach me: https://www.linkedin.com/in/ortizaline-qa/
   
 
